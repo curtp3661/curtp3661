@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curtp3661
 - 👀 I’m interested in learning how to become a cloud developer.
-- 🌱 I’m currently learning Full Stack Cloud Development through IBM on Coursera
+- 🌱 I’m currently learning Full Stack Cloud Development through IBM on Coursera and appAcademy.
 - 💞️ I’m looking to collaborate on future programming projects
 
 
